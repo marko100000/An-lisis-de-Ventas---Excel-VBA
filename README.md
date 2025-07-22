@@ -24,7 +24,7 @@ Este proyecto muestra un análisis de ventas de tiendas de telefonía móvil en 
 ![Dashboard](imagenes/Análisis_de_ventas_por_Producto.jpeg)
 ![Dashboard](imagenes/Análisis_de_ventas_por_Representante.jpeg)
 ![Dashboard](imagenes/Ganancia_Total.jpeg)
-![Dashboard](imagenes/Margen_de_ganancia_por_producto.jepg)
+![Dashboard](imagenes/Margen_de_ganancia_por_producto.jpeg)
 ![Dashboard](imagenes/Rentabilidad_por_producto.jpeg)
 ![Dashboard](imagenes/Total_de_ingresos.jpeg)
 ![Dashboard](imagenes/Ventas_por_ciudad.jpeg)
