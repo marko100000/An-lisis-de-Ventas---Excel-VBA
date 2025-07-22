@@ -29,5 +29,12 @@ Este proyecto muestra un análisis de ventas de tiendas de telefonía móvil en 
 ![Dashboard](imagenes/Total_de_ingresos.jpeg)
 ![Dashboard](imagenes/Ventas_por_ciudad.jpeg)
 
+## Redes:
+https://www.linkedin.com/in/marko-alexander-naveda-samame-721aa9264/
+https://github.com/marko100000
+
+## Csv:
+https://www.kaggle.com/datasets/papasricas/datos-de-venta-de-tiendas-en-peru10midatos/data?select=DatosDeVentaDeTiendaDeTelefonos%2810milDatos%29.xlsx
+
 ## Licencia:
-Este proyecto está bajo la licencia marko100000. Puedes usarlo y modificarlo de acuerdo con los términos de dicha licencia.
+Este proyecto está bajo la licencia de marko100000.
